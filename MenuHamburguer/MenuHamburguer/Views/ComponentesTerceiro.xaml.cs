@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
+using MenuHamburguer.Models;
+
 namespace MenuHamburguer.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
